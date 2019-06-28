@@ -1,8 +1,6 @@
 /*--
-Author: W3layouts
-Author URL: http://w3layouts.com
-License: Creative Commons Attribution 3.0 Unported
-License URL: http://creativecommons.org/licenses/by/3.0/
+Author: Pablo Jorquera
+
 --*/
 html, body{
     font-size: 100%;
@@ -134,6 +132,9 @@ nav.navbar.navbar-default {
 }
 .navbar-brand span{
 	padding: 0 1.5em;
+    font: 100% sans-serif;
+    color: black;
+    font-weight:700;
     
 }
 .navbar-brand i{
